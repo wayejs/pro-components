@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "module": "ES6",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "importHelpers": true,
+    "declaration": true,
+    "composite": true,
+    "target": "ES6",
+    "esModuleInterop": true,
+    "lib": [
+      "ESNext",
+      "DOM"
+    ]
+  }
+}
