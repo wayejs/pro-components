@@ -1,0 +1,15 @@
+{
+  "name": "@waye/utils",
+  "version": "1.0.0",
+  "description": "waye utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wayejs/pro-components/packages/utils"
+  },
+  "author": "lynzz",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@waye/badge-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "lynzz",
+  "peerDependencies": {
+    "vue": "^2",
+    "element-ui": "^2"
+  },
+  "license": "MIT"
+}
